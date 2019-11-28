@@ -1,6 +1,6 @@
 #instructions
-#just checking how it works
+
 - chop avocados
 - chop onion
-#- and mix well
+- and mix well
 * enjoy!
