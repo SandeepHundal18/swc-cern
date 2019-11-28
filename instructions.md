@@ -4,6 +4,3 @@
 - chop onion
 #- and mix well
 * enjoy!
-
-
-
